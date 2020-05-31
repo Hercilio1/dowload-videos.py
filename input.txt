@@ -1,3 +1,9 @@
-youtube,https://www.youtube.com/watch?v=3swcKhG-xXs,video1
-youtube,https://www.youtube.com/watch?v=HnL8LLnqiYM
-youtube,https://www.youtube.com/watch?v=93s-Jirz_MM,video2
+youtube,https://www.youtube.com/watch?v=TuzSLhtEs9g&feature=youtu.be,1_cripto-simetrica_01_OTP
+youtube,https://www.youtube.com/watch?v=EsWcFMa4aKs&feature=youtu.be,2_cripto-simetrica_02_DES
+youtube,https://www.youtube.com/watch?v=MC-oalc0emE&feature=youtu.be,2_cripto-simetrica_02_AES
+youtube,https://www.youtube.com/watch?v=SZemmLwn8Bk&feature=youtu.be,2_cripto-simetrica_02_MP
+youtube,https://www.youtube.com/watch?v=U4zcO1cONTI&feature=youtu.be,3_integridade-de-msgs_01_FuncRes
+youtube,https://www.youtube.com/watch?v=9z-BctdRKHc&feature=youtu.be,3_integridade-de-msgs_02_SHA1
+youtube,https://www.youtube.com/watch?v=wOexYeaYyZE&feature=youtu.be,3_integridade-de-msgs_02_MAC1
+youtube,https://www.youtube.com/watch?v=Csc9nrNEtzU&feature=youtu.be,3_integridade-de-msgs_02_MAC2
+youtube,https://www.youtube.com/watch?v=6MqSS4A_Pxg&feature=youtu.be,3_integridade-de-msgs_02_atq_alteracao_IV

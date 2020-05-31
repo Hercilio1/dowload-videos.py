@@ -1,3 +1,9 @@
-video1; D:\Users\Usuário\Documents\PythonScripts\GrepYoutubeVideos\videos_2020-05-31-02-20-40\video1.mp4
-O SUJO FALANDO DO MAL LAVADO; D:\Users\Usuário\Documents\PythonScripts\GrepYoutubeVideos\videos_2020-05-31-02-20-41\O SUJO FALANDO DO MAL LAVADO.mp4
-video2; D:\Users\Usuário\Documents\PythonScripts\GrepYoutubeVideos\videos_2020-05-31-02-20-41\video2.mp4
+1_cripto-simetrica_01_OTP; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/1_cripto-simetrica_01_OTP.mp4
+3_integridade-de-msgs_02_SHA1; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/3_integridade-de-msgs_02_SHA1.mp4
+3_integridade-de-msgs_02_MAC1; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/3_integridade-de-msgs_02_MAC1.mp4
+3_integridade-de-msgs_02_atq_alteracao_IV; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/3_integridade-de-msgs_02_atq_alteracao_IV.mp4
+3_integridade-de-msgs_01_FuncRes; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/3_integridade-de-msgs_01_FuncRes.mp4
+3_integridade-de-msgs_02_MAC2; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/3_integridade-de-msgs_02_MAC2.mp4
+2_cripto-simetrica_02_AES; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/2_cripto-simetrica_02_AES.mp4
+2_cripto-simetrica_02_MP; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/2_cripto-simetrica_02_MP.mp4
+2_cripto-simetrica_02_DES; /Users/herciliomartinsortiz/Documents/Works/python/dowload-videos.py/videos/2_cripto-simetrica_02_DES.mp4

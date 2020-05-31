@@ -85,7 +85,8 @@ def download_yt_video(link, name=None, shell=False):
         .order_by('resolution') \
         .desc() \
         .first() \
-        .download(output_path=("videos_{}").format(datetime.today().strftime('%Y-%m-%d-%H-%M')), filename=name)
+        .download(output_path="videos", filename=name)
+        # .download(output_path=("videos_{}").format(datetime.today().strftime('%Y-%m-%d-%H-%M')), filename=name)
         
 def download_vimeo_video(link, name=None, shell=False):
     ydl_opts = {}
