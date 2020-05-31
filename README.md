@@ -2,7 +2,7 @@
 
 ## Installing
 ```
-$ pip install
+$ pip install -r requirements.txt
 ```
 
 ## Running
